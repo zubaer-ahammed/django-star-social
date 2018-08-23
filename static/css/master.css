@@ -1,0 +1,19 @@
+.mycontent{
+  padding-top: 100px;
+  border: 10px solid red;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #191063;
+  margin: 0;
+}
+
+
+#canvas {
+    position: absolute;
+    top: 0;
+}
